@@ -1,6 +1,6 @@
 -- Funções 
 
--- Funcções que retornam a data atual do sistema
+-- Funções que retornam a data atual do sistema
 select GETDATE() [Data com GetDate],
 	   CURRENT_TIMESTAMP [Data com Current Timestamp]
 
